@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raviraj Kushwaha</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave gif" width="30px" height="30px"> I'm Raviraj Kushwaha</h1>
 <!---<h3 align="center">A passionate front-end developer from India.</h3>--->
 
 
